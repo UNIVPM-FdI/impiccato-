@@ -15,7 +15,6 @@ int main()
 	char pes[200];
 	char parola[200];
 do{
-	
 	int f=0;
 	cout << "Ciao, benvenuto all'impiccato" ;
 	if (prima)
@@ -27,7 +26,7 @@ do{
 		i++;
 	}
 }
-	cout << "la parola da indovinare è stata caricata";
+	cout << "la parola da indovinare Ã¨ stata caricata";
 	cout << "questa e' la parola da indovinare" << endl;
    if (prima)
    {
@@ -83,5 +82,3 @@ system("cls");
 }
 while (k!=3);
 }
-
-
